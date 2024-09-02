@@ -1,1 +1,1 @@
-# IslandSushiRestaurant-IssueTracker
+# 海岛寿司店－問題收集區
